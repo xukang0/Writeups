@@ -1,1 +1,4 @@
-I am practicing writeups on HackTheBox machines
+
+EASY
+
+Jerry
