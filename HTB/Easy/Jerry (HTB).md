@@ -1,5 +1,5 @@
 
-Task 1 : Which TCP port is open on the remote host?
+## Task 1 : Which TCP port is open on the remote host?
 
 <br>
 
@@ -15,11 +15,11 @@ sudo nmap -sV -Pn -T4 -oA initial_scan 10.129.136.9
 <br>
 <br>
     
-Answer : 8080
+> Answer : 8080
 
 ---
 
-Task 2 : Which web server is running on the remote host? Looking for two words.
+## Task 2 : Which web server is running on the remote host? Looking for two words.
 
 <br>
 
@@ -28,11 +28,11 @@ Task 2 : Which web server is running on the remote host? Looking for two words.
 <br>
 <br>
 
-Answer : Apache Tomcat
+> Answer : Apache Tomcat
 
 ---
 
-Task 3 : Which relative path on the webserver leads to the Web Application Manager?
+## Task 3 : Which relative path on the webserver leads to the Web Application Manager?
 
 <br>
 
@@ -41,11 +41,11 @@ Task 3 : Which relative path on the webserver leads to the Web Application Manag
 <br>
 <br>
 
-Answer : /manager/html
+> Answer : /manager/html
 
 ---
 
-Task 4 : What is the valid username and password combination for authenticating into the Tomcat Web Application Manager? Give the answer in the format of username:password
+## Task 4 : What is the valid username and password combination for authenticating into the Tomcat Web Application Manager? Give the answer in the format of username:password
 
 Tried some default credentials for Tomcat Apache such as :
 
@@ -80,11 +80,11 @@ These credentials work and Tomcat Web Application Manager can be accessed.
 <br>
 
 
-Answer : tomcat:s3cret
+> Answer : tomcat:s3cret
 
 ---
 
-Task 5 : Which file type can be uploaded and deployed on the server using the Tomcat Web Application Manager?
+## Task 5 : Which file type can be uploaded and deployed on the server using the Tomcat Web Application Manager?
 
 <br>
 
@@ -97,13 +97,13 @@ Task 5 : Which file type can be uploaded and deployed on the server using the To
 Tomcat Apache allows .war files to be uploaded
 <br>
 
-Answer : war
+> Answer : war
 
 ---
 
-Task 6 : Submit the flag located on the user's desktop.
+## Task 6 : Submit the flag located on the user's desktop.
 
-Task 7 : Submit the flag located on the administrator's desktop.
+## Task 7 : Submit the flag located on the administrator's desktop.
 
 Both flags are given together so I will do them simultaneously.
 
@@ -143,12 +143,12 @@ The flag can be found at C:\Users\Administrator\Desktop\flags\
 
 Answer : 
 
-User flag 
+> User flag 
 ```
 7004dbcef0f854e0fb401875f26ebd00
 ```
 
-Root Flag
+> Root Flag
 ```
 04a8b36e1545a455393d067e772fe90e
 ```
