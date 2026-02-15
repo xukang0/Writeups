@@ -12,22 +12,7 @@ sudo nmap -sV -Pn -T4 -oA initial_scan 10.129.136.9
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 Answer : 8080
 
 ---
