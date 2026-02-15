@@ -8,7 +8,9 @@ sudo nmap -sV -Pn -T4 -oA initial_scan 10.129.136.9
 ```
 
 <img width="779" height="191" alt="Pasted image 20260216003010" src="https://github.com/user-attachments/assets/e8e84015-0afc-439c-8686-b06f9fe1dd6b" />
-
+<br>
+<br>
+<br>
     
 Answer : 8080
 
