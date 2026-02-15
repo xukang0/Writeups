@@ -9,6 +9,7 @@ sudo nmap -sV -Pn -T4 -oA initial_scan 10.129.136.9
 
 <img width="779" height="191" alt="Pasted image 20260216003010" src="https://github.com/user-attachments/assets/e8e84015-0afc-439c-8686-b06f9fe1dd6b" />
 
+
 Answer : 8080
 
 ---
@@ -17,6 +18,7 @@ Task 2 : Which web server is running on the remote host? Looking for two words.
 
 <img width="779" height="191" alt="Pasted image 20260216002941" src="https://github.com/user-attachments/assets/cf595502-9537-4053-8dcf-8705102b1d94" />
 
+
 Answer : Apache Tomcat
 
 ---
@@ -24,6 +26,7 @@ Answer : Apache Tomcat
 Task 3 : Which relative path on the webserver leads to the Web Application Manager?
 
 <img width="808" height="231" alt="Pasted image 20260216003800" src="https://github.com/user-attachments/assets/7b525974-0ba0-4362-9ca0-5e844c54597a" />
+
 
 Answer : /manager/html
 
@@ -47,6 +50,7 @@ Upon closer inspection of the error page, a suggested default credential of "tom
 <img width="1922" height="1047" alt="Screenshot_2026-02-15_11-41-38" src="https://github.com/user-attachments/assets/a838aa70-d863-4592-83c3-731246f1b38b" />
 
 These credentials work and Tomcat Web Application Manager can be accessed.
+
 
 Answer : tomcat:s3cret
 
