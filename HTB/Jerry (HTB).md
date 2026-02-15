@@ -15,6 +15,8 @@ Answer : 8080
 
 Task 2 : Which web server is running on the remote host? Looking for two words.
 
+<img width="779" height="191" alt="Pasted image 20260216002941" src="https://github.com/user-attachments/assets/Pasted image 20260216002941.png" />
+
 ![[Pasted image 20260216002941.png]]
 
 Answer : Apache Tomcat
