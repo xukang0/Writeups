@@ -1,12 +1,15 @@
 
 Task 1 : Which TCP port is open on the remote host?
 
+<br>
+
 Run an nmap scan for given IP address
 
 ```
 sudo nmap -sV -Pn -T4 -oA initial_scan 10.129.136.9
 ```
 
+<br>
 <img width="779" height="191" alt="Pasted image 20260216003010" src="https://github.com/user-attachments/assets/e8e84015-0afc-439c-8686-b06f9fe1dd6b" />
 <br>
 <br>
@@ -18,8 +21,12 @@ Answer : 8080
 
 Task 2 : Which web server is running on the remote host? Looking for two words.
 
-<img width="779" height="191" alt="Pasted image 20260216002941" src="https://github.com/user-attachments/assets/cf595502-9537-4053-8dcf-8705102b1d94" />
+<br>
 
+<img width="779" height="191" alt="Pasted image 20260216002941" src="https://github.com/user-attachments/assets/cf595502-9537-4053-8dcf-8705102b1d94" />
+<br>
+<br>
+<br>
 
 Answer : Apache Tomcat
 
@@ -27,8 +34,12 @@ Answer : Apache Tomcat
 
 Task 3 : Which relative path on the webserver leads to the Web Application Manager?
 
-<img width="808" height="231" alt="Pasted image 20260216003800" src="https://github.com/user-attachments/assets/7b525974-0ba0-4362-9ca0-5e844c54597a" />
+<br>
 
+<img width="808" height="231" alt="Pasted image 20260216003800" src="https://github.com/user-attachments/assets/7b525974-0ba0-4362-9ca0-5e844c54597a" />
+<br>
+<br>
+<br>
 
 Answer : /manager/html
 
@@ -38,20 +49,35 @@ Task 4 : What is the valid username and password combination for authenticating 
 
 Tried some default credentials for Tomcat Apache such as :
 
+<br>
+
 admin:admin
 administrator:administrator
 admin:(none)
 tomcat:Tomcatadm
 
+<br>
+
 None of them worked.
+
+<br>
 
 <img width="1180" height="400" alt="Pasted image 20260216004048" src="https://github.com/user-attachments/assets/a357c142-eb83-4e4c-abbd-04a298f9dfb8" />
 
+
+
+<br>
 Upon closer inspection of the error page, a suggested default credential of "tomcat:s3cret" can be seen.
 
 <img width="1922" height="1047" alt="Screenshot_2026-02-15_11-41-38" src="https://github.com/user-attachments/assets/a838aa70-d863-4592-83c3-731246f1b38b" />
 
+
+<br>
+
 These credentials work and Tomcat Web Application Manager can be accessed.
+
+<br>
+<br>
 
 
 Answer : tomcat:s3cret
@@ -60,9 +86,16 @@ Answer : tomcat:s3cret
 
 Task 5 : Which file type can be uploaded and deployed on the server using the Tomcat Web Application Manager?
 
+<br>
+
+
 <img width="1082" height="304" alt="Pasted image 20260216004329" src="https://github.com/user-attachments/assets/056203f6-6396-4d42-a3b2-654bfebec8b9" />
 
+<br>
+<br>
+
 Tomcat Apache allows .war files to be uploaded
+<br>
 
 Answer : war
 
