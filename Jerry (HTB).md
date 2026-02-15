@@ -1,5 +1,7 @@
 
-Task 1 : Which TCP port is open on the remote host?
+## Task 1 : Which TCP port is open on the remote host?
+
+<br>
 
 Run an nmap scan for given IP address
 
@@ -7,64 +9,101 @@ Run an nmap scan for given IP address
 sudo nmap -sV -Pn -T4 -oA initial_scan 10.129.136.9
 ```
 
+<br>
 <img width="779" height="191" alt="Pasted image 20260216003010" src="https://github.com/user-attachments/assets/e8e84015-0afc-439c-8686-b06f9fe1dd6b" />
-
-Answer : 8080
+<br>
+<br>
+<br>
+    
+> Answer : 8080
 
 ---
 
-Task 2 : Which web server is running on the remote host? Looking for two words.
+## Task 2 : Which web server is running on the remote host? Looking for two words.
+
+<br>
 
 <img width="779" height="191" alt="Pasted image 20260216002941" src="https://github.com/user-attachments/assets/cf595502-9537-4053-8dcf-8705102b1d94" />
+<br>
+<br>
+<br>
 
-Answer : Apache Tomcat
+> Answer : Apache Tomcat
 
 ---
 
-Task 3 : Which relative path on the webserver leads to the Web Application Manager?
+## Task 3 : Which relative path on the webserver leads to the Web Application Manager?
+
+<br>
 
 <img width="808" height="231" alt="Pasted image 20260216003800" src="https://github.com/user-attachments/assets/7b525974-0ba0-4362-9ca0-5e844c54597a" />
+<br>
+<br>
+<br>
 
-Answer : /manager/html
+> Answer : /manager/html
 
 ---
 
-Task 4 : What is the valid username and password combination for authenticating into the Tomcat Web Application Manager? Give the answer in the format of username:password
+## Task 4 : What is the valid username and password combination for authenticating into the Tomcat Web Application Manager? Give the answer in the format of username:password
 
 Tried some default credentials for Tomcat Apache such as :
+
+<br>
 
 admin:admin
 administrator:administrator
 admin:(none)
 tomcat:Tomcatadm
 
+<br>
+
 None of them worked.
+
+<br>
 
 <img width="1180" height="400" alt="Pasted image 20260216004048" src="https://github.com/user-attachments/assets/a357c142-eb83-4e4c-abbd-04a298f9dfb8" />
 
+
+
+<br>
 Upon closer inspection of the error page, a suggested default credential of "tomcat:s3cret" can be seen.
 
 <img width="1922" height="1047" alt="Screenshot_2026-02-15_11-41-38" src="https://github.com/user-attachments/assets/a838aa70-d863-4592-83c3-731246f1b38b" />
 
+
+<br>
+
 These credentials work and Tomcat Web Application Manager can be accessed.
 
-Answer : tomcat:s3cret
+<br>
+<br>
+
+
+> Answer : tomcat:s3cret
 
 ---
 
-Task 5 : Which file type can be uploaded and deployed on the server using the Tomcat Web Application Manager?
+## Task 5 : Which file type can be uploaded and deployed on the server using the Tomcat Web Application Manager?
+
+<br>
+
 
 <img width="1082" height="304" alt="Pasted image 20260216004329" src="https://github.com/user-attachments/assets/056203f6-6396-4d42-a3b2-654bfebec8b9" />
 
-Tomcat Apache allows .war files to be uploaded
+<br>
+<br>
 
-Answer : war
+Tomcat Apache allows .war files to be uploaded
+<br>
+
+> Answer : war
 
 ---
 
-Task 6 : Submit the flag located on the user's desktop.
+## Task 6 : Submit the flag located on the user's desktop.
 
-Task 7 : Submit the flag located on the administrator's desktop.
+## Task 7 : Submit the flag located on the administrator's desktop.
 
 Both flags are given together so I will do them simultaneously.
 
@@ -104,12 +143,12 @@ The flag can be found at C:\Users\Administrator\Desktop\flags\
 
 Answer : 
 
-User flag 
+> User flag 
 ```
 7004dbcef0f854e0fb401875f26ebd00
 ```
 
-Root Flag
+> Root Flag
 ```
 04a8b36e1545a455393d067e772fe90e
 ```
