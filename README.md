@@ -1,6 +1,6 @@
 
 # EASY
 
-[Jerry](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Jerry%20(HTB).md)
+[Jerry](https://github.com/xukang0/Writeups/blob/main/HTB/EASY/Jerry%20(HTB).md)
 
 # MEDIUM
