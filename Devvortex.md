@@ -116,7 +116,10 @@ We can see that the joomla version is 4.2.6
 
 ---
 
+## What is the 2023 CVE ID for an information disclosure vulnerability in the version of Joomla running on DevVortex?
+
 Searching on google for "joomla 4.2.6 CVE" returns this result by [NIST](https://nvd.nist.gov/vuln/detail/cve-2023-23752)
+<br>
 <br>
 <img width="1448" height="1155" alt="image" src="https://github.com/user-attachments/assets/3a1cd503-1324-4af1-a223-90849631520c" />
 <br>
