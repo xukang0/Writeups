@@ -8,13 +8,12 @@
 
 # VERY EASY
 
-| No. | Boxes                                                                                                |                  Lessons Learned                   | List           | Type      |
-| :-- | ---------------------------------------------------------------------------------------------------- | :------------------------------------------------: | -------------- | --------- |
-| 1   | [Markup](https://github.com/xukang0/Writeups/blob/main/HTB/Very%20Easy/Markup%20(HTB).md)            | `XML XXE Injection`,`Windows Scheduled Task Abuse` | `LainKusanagi` | `Windows` |
-
-<br>
+| No. | Boxes                                                                                                    |                  Lessons Learned                   | List           | Type      |
+| :-- | -------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | -------------- | --------- |
+| 1   | [Markup](https://github.com/xukang0/Writeups/blob/main/HTB/Very%20Easy/Markup%20(HTB).md)           <br> | `XML XXE Injection`,`Windows Scheduled Task Abuse` | `LainKusanagi` | `Windows` |
 <br>
 
+<br>
 # EASY
 
 | No. | Boxes                                                                            |                              Lessons Learned                              | List           | Type      |
