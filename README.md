@@ -16,28 +16,28 @@
 <br>
 # EASY
 
-| No. | Boxes                                                                            |                              Lessons Learned                              | List           | Type      |
-| :-- | -------------------------------------------------------------------------------- | :-----------------------------------------------------------------------: | -------------- | --------- |
-| 1   | [Sau](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Sau%20(HTB).md)     | `Server-Side Attacks`, `Linux Privilege Escalation`, `Command Injections` | `NA`           | `NA`      |
-| 2   | Analytics                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
-| 3   | Bashed                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
-| 4   | BoardLight                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
-| 5   | Broker                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
-| 6   | Busqueda                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
-| 7   | Codify                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
-| 8   | Cozyhosting                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
-| 9   | Devvortex                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
-| 10  | Dog                                                                              |                                                                           | `LainKusanagi` | `Linux`   |
-| 11  | Keeper                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
-| 12  | Knife                                                                            |                                                                           | `LainKusanagi` | `Linux`   |
-| 13  | Nibbles                                                                          |                                                                           | `LainKusanagi` | `Linux`   |
-| 14  | Precious                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
-| 15  | UnderPass                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
-| 16  | [Jerry](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Jerry%20(HTB).md) |           `Login Brute Forcing`, `Windows Privilege Escalation`           | `LainKusanagi` | `Windows` |
-| 17  | Netmon                                                                           |                                                                           | `LainKusanagi` | `Windows` |
-| 18  | Buff                                                                             |                                                                           | `LainKusanagi` | `Windows` |
-| 19  | Return                                                                           |                                                                           | `LainKusanagi` | `AD`      |
-| 20  | Cicada                                                                           |                                                                           | `LainKusanagi` | `AD`      |
+| No. | Boxes                                                                            |                                         Lessons Learned                                          | List           | Type      |
+| :-- | -------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------: | -------------- | --------- |
+| 1   | [Sau](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Sau%20(HTB).md)     |            `Server-Side Attacks`, `Linux Privilege Escalation`, `Command Injections`             | `NA`           | `NA`      |
+| 2   | Analytics                                                                        |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 3   | Bashed                                                                           |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 4   | BoardLight                                                                       |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 5   | Broker                                                                           |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 6   | Busqueda                                                                         |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 7   | Codify                                                                           |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 8   | Cozyhosting                                                                      |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 9   | Devvortex                                                                        | `Network Enumeration with Nmap`, `Attacking Web Applications with FFUF`, `Broken Authentication` | `LainKusanagi` | `Linux`   |
+| 10  | Dog                                                                              |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 11  | Keeper                                                                           |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 12  | Knife                                                                            |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 13  | Nibbles                                                                          |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 14  | Precious                                                                         |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 15  | UnderPass                                                                        |                                                                                                  | `LainKusanagi` | `Linux`   |
+| 16  | [Jerry](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Jerry%20(HTB).md) |                      `Login Brute Forcing`, `Windows Privilege Escalation`                       | `LainKusanagi` | `Windows` |
+| 17  | Netmon                                                                           |                                                                                                  | `LainKusanagi` | `Windows` |
+| 18  | Buff                                                                             |                                                                                                  | `LainKusanagi` | `Windows` |
+| 19  | Return                                                                           |                                                                                                  | `LainKusanagi` | `AD`      |
+| 20  | Cicada                                                                           |                                                                                                  | `LainKusanagi` | `AD`      |
 
 <br>
 <br>
