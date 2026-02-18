@@ -38,10 +38,19 @@ This will allow us to reach devvortex.htb
 <br>
 <br>
 
+To discover the subdomain, we use gobuster vhost enumeration mode.
+
+```
+gobuster vhost -u http://devvortex.htb -w /usr/share/SecLists/Discovery/DNS/subdomains-top1million-5000.txt --append-domain
+```
+<br>
+
 <img width="1031" height="344" alt="image" src="https://github.com/user-attachments/assets/16363952-4720-4b4f-9cea-1910f55a5a5e" />
 <br>
 <br>
 We discover dev.devvortex.htb
+<br>
+<br>
 > Answer : dev.devvortex.htb
 
 ---
