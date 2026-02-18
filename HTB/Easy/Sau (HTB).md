@@ -172,7 +172,7 @@ Googling "systemd 245 (245.4-4ubuntu3.22) cve" gives this [CVE result](https://b
 
 # Submit Root Flag : Submit the flag located in the root user's home directory.
 
-Based on this [sploitus](https://sploitus.com/exploit?id=EDB-ID:51674)page, I followed the instructions
+Based on this [sploitus](https://sploitus.com/exploit?id=EDB-ID:51674) page, I followed the instructions
 
 ![[Pasted image 20260218100225.png]]
 
