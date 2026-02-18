@@ -187,6 +187,14 @@ We can access lewis' dashboard.
 <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/f60dd244-a4ba-413c-a1e6-a5d77aa6fd46" />
 <br>
 <br>
+Navigate the site to System > Site Templates > Cassiopeia Details and Files.
+<br>
+<br>
+<img width="1921" height="816" alt="image" src="https://github.com/user-attachments/assets/fff71c4d-262d-4f42-9418-348ea7aa5ba5" />
+<br>
+<br>
+We can edit one of the unused php documents to give ourselves a reverse shell. I choose to use error.php.
+
 
 
 
