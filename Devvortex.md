@@ -172,6 +172,21 @@ Finally, run the exploit.
 > Answer : P4ntherg0t1n5r3c0n##
 
  ---
+ 
+## Task 7 : What table in the database contains hashed credentials for the logan user?
+
+We take our discovered credentials lewis:P4ntherg0t1n5r3c0n## and login via the /administrator directory
+<br>
+<br>
+<img width="1263" height="711" alt="image" src="https://github.com/user-attachments/assets/4cd0605f-4120-4e2b-84bd-c5b1bbdd244a" />
+<br>
+<br>
+We can access lewis' dashboard.
+<br>
+<br>
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/f60dd244-a4ba-413c-a1e6-a5d77aa6fd46" />
+<br>
+<br>
 
 
 
