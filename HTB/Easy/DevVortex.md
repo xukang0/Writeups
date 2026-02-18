@@ -265,7 +265,51 @@ Attempt to login to SQL using previous lewis credentials.
 <br>
 <br>
 It works, and we gain access to the SQL database.
+<br>
 
+```
+show databases;
+```
+<img width="249" height="174" alt="image" src="https://github.com/user-attachments/assets/59700fb7-e786-415c-b7d3-392957986151" />
+<br>
+<br>
+
+```
+use joomla;
+```
+<img width="539" height="101" alt="image" src="https://github.com/user-attachments/assets/f9589d2c-7790-47f7-a6a6-503e386edd25" />
+<br>
+<br>
+
+```
+show tables;
+```
+<img width="293" height="634" alt="image" src="https://github.com/user-attachments/assets/b8b323ba-107b-49a3-a17c-1c035a33e2b3" />
+<br>
+<br>
+
+<img width="297" height="656" alt="image" src="https://github.com/user-attachments/assets/5546e678-387f-4bc7-9edf-6cd809be9811" />
+<br>
+<br>
+
+This table seems the most likely to contain credentials of users.
+<br>
+
+> Answer : sd4fg_users
+
+---
+
+## Task 7 : What table in the database contains hashed credentials for the logan user?
+
+To dump out all content from sd4fg_users
+```
+select * from sd4fg_users
+```
+<br>
+<img width="1253" height="342" alt="image" src="https://github.com/user-attachments/assets/7e3bb3dd-fa32-494d-a83e-c49c56a7c188" />
+<br>
+<br>
+We receive password hashes for Lewis and Logan.
 
 
 
