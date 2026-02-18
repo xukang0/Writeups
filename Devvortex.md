@@ -24,7 +24,7 @@ http://[target_ip]
 
 We will be redirected to devvortex.htb but the page will not load.
 
-We will need to add our target machine IP to /etc/hosts.
+We will need to add our target machine IP to /etc/hosts first.
 
 <img width="453" height="179" alt="image" src="https://github.com/user-attachments/assets/927dbad5-7800-447d-bdb2-cfda00dcc836" />
 
