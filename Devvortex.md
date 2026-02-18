@@ -102,7 +102,7 @@ Since the website's CMS is joomla, we can make use of [joomscan](https://github.
 Since it is packaged into Kali Linux, I will use it.
 
 ```
-joomla -u http://dev.devvortex.htb
+joomscan -u http://dev.devvortex.htb
 ```
 <br>
 <img width="602" height="975" alt="image" src="https://github.com/user-attachments/assets/c3118b15-e0e0-4ceb-8ec7-89140309fc97" />
@@ -115,5 +115,16 @@ We can see that the joomla version is 4.2.6
 > Answer : 4.2.6
 
 ---
+
+Searching on google for "joomla 4.2.6 CVE" returns this result by [NIST](https://nvd.nist.gov/vuln/detail/cve-2023-23752)
+<br>
+<img width="1448" height="1155" alt="image" src="https://github.com/user-attachments/assets/3a1cd503-1324-4af1-a223-90849631520c" />
+<br>
+<br>
+> Answer : CVE-2023-23752
+
+ ---
+
+ 
 
 
