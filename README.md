@@ -10,7 +10,7 @@
 
 | No. | Boxes                                                                                                    |                  Lessons Learned                   | List           | Type      |
 | :-- | -------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | -------------- | --------- |
-| 1   | [Markup](https://github.com/xukang0/Writeups/blob/main/HTB/Very%20Easy/Markup%20(HTB).md)           <br> | `XML XXE Injection`,`Windows Scheduled Task Abuse` | `LainKusanagi` | `Windows` |
+| 1   | [Markup](https://github.com/xukang0/Writeups/blob/main/HTB/Very%20Easy/Markup.md)           <br> | `XML XXE Injection`,`Windows Scheduled Task Abuse` | `LainKusanagi` | `Windows` |
 <br>
 
 <br>
@@ -18,7 +18,7 @@
 
 | No. | Boxes                                                                            |                              Lessons Learned                              | List           | Type      |
 | :-- | -------------------------------------------------------------------------------- | :-----------------------------------------------------------------------: | -------------- | --------- |
-| 1   | [Sau](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Sau%20(HTB).md)     | `Server-Side Attacks`, `Linux Privilege Escalation`, `Command Injections` | `NA`           | `NA`      |
+| 1   | [Sau](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Sau.md)     | `Server-Side Attacks`, `Linux Privilege Escalation`, `Command Injections` | `NA`           | `NA`      |
 | 2   | Analytics                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
 | 3   | Bashed                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
 | 4   | BoardLight                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
@@ -33,7 +33,7 @@
 | 13  | Nibbles                                                                          |                                                                           | `LainKusanagi` | `Linux`   |
 | 14  | Precious                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
 | 15  | UnderPass                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
-| 16  | [Jerry](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Jerry%20(HTB).md) |           `Login Brute Forcing`, `Windows Privilege Escalation`           | `LainKusanagi` | `Windows` |
+| 16  | [Jerry](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Jerry.md) |           `Login Brute Forcing`, `Windows Privilege Escalation`           | `LainKusanagi` | `Windows` |
 | 17  | Netmon                                                                           |                                                                           | `LainKusanagi` | `Windows` |
 | 18  | Buff                                                                             |                                                                           | `LainKusanagi` | `Windows` |
 | 19  | Return                                                                           |                                                                           | `LainKusanagi` | `AD`      |
