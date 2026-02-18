@@ -62,3 +62,38 @@ We will add this subdomain to /etc/hosts in order to visit the webpage.
 ```
 echo "[target_IP] [dev.devvortex.htb]" | sudo tee -a /etc/hosts
 ```
+
+Now we can visit dev.devvortex.htb
+
+<img width="1912" height="1020" alt="image" src="https://github.com/user-attachments/assets/e906d68b-2627-404a-94c0-aa63123eedee" />
+<br>
+<br>
+
+We can try to sniff out interesting directories using gobuster
+
+```
+gobuster dir --url http://dev.devvortex.htb/ --wordlist /usr/share/seclists/Discovery/Web-Content/raft-medium-directories.txt
+```
+<br>
+
+<img width="1124" height="527" alt="image" src="https://github.com/user-attachments/assets/b29088e8-f620-464c-a5f3-72a0b9614e20" />
+<br>
+<br>
+
+We discover /administrator.
+
+Visiting this directory,
+
+<img width="1913" height="997" alt="image" src="https://github.com/user-attachments/assets/0767b8dc-7b8e-4e56-8e28-440a34965b37" />
+<br>
+<br>
+
+We can see that joomla is the CMS.
+
+<br>
+> Answer : joomla
+
+---
+
+
+
