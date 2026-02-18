@@ -116,7 +116,7 @@ We can see that the joomla version is 4.2.6
 
 ---
 
-## What is the 2023 CVE ID for an information disclosure vulnerability in the version of Joomla running on DevVortex?
+## Task 5 : What is the 2023 CVE ID for an information disclosure vulnerability in the version of Joomla running on DevVortex?
 
 Searching on google for "joomla 4.2.6 CVE" returns this result by [NIST](https://nvd.nist.gov/vuln/detail/cve-2023-23752)
 <br>
@@ -127,6 +127,50 @@ Searching on google for "joomla 4.2.6 CVE" returns this result by [NIST](https:/
 > Answer : CVE-2023-23752
 
  ---
+
+## Task 6 : What is the lewis user's password for the CMS?
+
+Searching on google for "CVE-2023-23752" lands me on this [github exploit](https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752)
+<br>
+<br>
+<img width="1244" height="683" alt="image" src="https://github.com/user-attachments/assets/dbc216a4-022d-46cb-94e4-f7bd4481b8d5" />
+<br>
+<br>
+Download the exploit.sh to attacker machine
+```
+wget https://raw.githubusercontent.com/Youns92/Joomla-v4.2.8---CVE-2023-23752/refs/heads/main/exploit.sh
+```
+<br>
+<br>
+<img width="935" height="242" alt="image" src="https://github.com/user-attachments/assets/5bff6791-854e-44d0-9641-f2215b04c392" />
+<br>
+<br>
+Update my Kali resources
+```
+sudo apt-get update
+sudo apt-get install jq
+```
+Remember to change the permissions of exploit.sh
+<br>
+<br>
+<img width="319" height="47" alt="image" src="https://github.com/user-attachments/assets/cf5f3e65-0e07-443e-ab76-4fc2b25295d0" />
+<br>
+<br>
+Finally, run the exploit.
+```
+./exploit.sh http://dev.devvortex.htb
+```
+<br>
+<br>
+<img width="1024" height="525" alt="image" src="https://github.com/user-attachments/assets/390a65d1-e767-4194-b760-6edcd81920a5" />
+<br>
+<br>
+
+> Answer : P4ntherg0t1n5r3c0n##
+
+ ---
+
+
 
  
 
