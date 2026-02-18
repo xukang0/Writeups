@@ -111,6 +111,7 @@ joomla -u http://dev.devvortex.htb
 <br>
 We can see that the joomla version is 4.2.6
 <br>
+<br>
 > Answer : 4.2.6
 
 ---
