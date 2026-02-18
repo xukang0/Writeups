@@ -372,6 +372,18 @@ sudo -l
 
 ---
 
+## Task 9 : What is the 2023 CVE ID of the privilege escalation vulnerability in the installed version of apport-cli?
+
+A google search of "apport-cli privesc CVE" returns the [NIST page](https://nvd.nist.gov/vuln/detail/CVE-2023-1326).
+<br>
+<img width="1448" height="885" alt="image" src="https://github.com/user-attachments/assets/5856c90f-5344-41e4-83a5-0868c1127b4f" />
+<br>
+<br>
+
+> Answer : CVE-2023-1326
+
+---
+
 
 
 
