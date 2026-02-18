@@ -95,5 +95,24 @@ We can see that joomla is the CMS.
 
 ---
 
+## Task 4 : Which version of Joomla is running on the target system?
+
+Since the website's CMS is joomla, we can make use of [joomscan](https://github.com/OWASP/joomscan).
+
+Since it is packaged into Kali Linux, I will use it.
+
+```
+joomla -u http://dev.devvortex.htb
+```
+<br>
+<img width="602" height="975" alt="image" src="https://github.com/user-attachments/assets/c3118b15-e0e0-4ceb-8ec7-89140309fc97" />
+
+<br>
+<br>
+We can see that the joomla version is 4.2.6
+<br>
+> Answer : 4.2.6
+
+---
 
 
