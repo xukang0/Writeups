@@ -8,9 +8,9 @@
 
 # VERY EASY
 
-| No. | Boxes  | Lessons Learned | List           | Type      |
-| :-- | ------ | :-------------: | -------------- | --------- |
-| 1   | Markup |                 | `LainKusanagi` | `Windows` |
+| No. | Boxes                                                                                     | Lessons Learned | List           | Type      |
+| :-- | ----------------------------------------------------------------------------------------- | :-------------: | -------------- | --------- |
+| 1   | [Markup](https://github.com/xukang0/Writeups/blob/main/HTB/Very%20Easy/Markup%20(HTB).md) |      `NA`       | `LainKusanagi` | `Windows` |
 
 <br>
 <br>
