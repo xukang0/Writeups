@@ -1,4 +1,4 @@
-<img width="284" height="123" alt="image" src="https://github.com/user-attachments/assets/05c3289b-e1c5-4942-b182-6d6fc5a2c216" />## Task 1 : How many open TCP ports are listening on Devvortex?
+## Task 1 : How many open TCP ports are listening on Devvortex?
 
 Run an nmap scan on the target
 
