@@ -20,7 +20,7 @@
 | :-- | -------------------------------------------------------------------------------- | :-----------------------------------------------------------------------: | -------------- | --------- |
 | 1   | [Sau](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Sau.md)             | `Server-Side Attacks`, `Linux Privilege Escalation`, `Command Injections` | `NA`           | `NA`      |
 | 2   | [Analytics]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
-| 3   | Bashed                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
+| 3   | [Bashed]                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
 | 4   | BoardLight                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
 | 5   | Broker                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
 | 6   | Busqueda                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
