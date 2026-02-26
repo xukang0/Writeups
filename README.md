@@ -24,8 +24,8 @@
 | 3   | [Bashed]                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
 | 4   | [BoardLight]                                                                     |                                                                           | `LainKusanagi` | `Linux`   |
 | 5   | [Broker]                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
-| 6   | Busqueda                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
-| 7   | Codify                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
+| 6   | [Busqueda]                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
+| 7   | [Codify]                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
 | 8   | Cozyhosting                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
 | 9   | [Devvortex](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/DevVortex.md) |    `Directory Enumeration`, `CMS Enumeration`, `Database Enumeration`     | `LainKusanagi` | `Linux`   |
 | 10  | Dog                                                                              |                                                                           | `LainKusanagi` | `Linux`   |
