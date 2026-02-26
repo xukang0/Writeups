@@ -4,8 +4,9 @@
 <img width="1200" height="627" alt="image" src="https://github.com/user-attachments/assets/91f06d17-2794-4cff-bbc6-ada51ff81ece" />
 <br>
 <br>
+# Lainkusanagi List
 <br>
-
+<br>
 # VERY EASY
 
 | No. | Boxes                                                                                                    |                  Lessons Learned                   | List           | Type      |
@@ -22,7 +23,7 @@
 | 2   | [Analytics]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
 | 3   | [Bashed]                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
 | 4   | [BoardLight]                                                                     |                                                                           | `LainKusanagi` | `Linux`   |
-| 5   | Broker                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
+| 5   | [Broker]                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
 | 6   | Busqueda                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
 | 7   | Codify                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
 | 8   | Cozyhosting                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
