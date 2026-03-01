@@ -6,7 +6,7 @@
 <br>
 # Lainkusanagi List
 <br>
-TEST<br>
+<br>
 # VERY EASY
 
 | No. | Boxes                                                                                                    |                  Lessons Learned                   | List           | Type      |
