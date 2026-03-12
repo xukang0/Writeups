@@ -37,7 +37,7 @@
 | 16  | [Jerry](https://github.com/xukang0/Writeups/blob/main/HTB/Easy/Jerry.md)         |           `Login Brute Forcing`, `Windows Privilege Escalation`           | `LainKusanagi` | `Windows` |
 | 17  | [Netmon]                                                                         |                                                                           | `LainKusanagi` | `Windows` |
 | 18  | [Buff]                                                                           |                                                                           | `LainKusanagi` | `Windows` |
-| 19  | Return                                                                           |                                                                           | `LainKusanagi` | `AD`      |
+| 19  | [Return]                                                                         |                                                                           | `LainKusanagi` | `AD`      |
 | 20  | [Cicada]                                                                         |                                                                           | `LainKusanagi` | `AD`      |
 
 <br>
