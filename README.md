@@ -39,6 +39,7 @@
 | 18  | [Buff]                                                                           |                                                                           | `LainKusanagi` | `Windows` |
 | 19  | [Return]                                                                         |                                                                           | `LainKusanagi` | `AD`      |
 | 20  | [Cicada]                                                                         |                                                                           | `LainKusanagi` | `AD`      |
+| 21  | [Editorial]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
 
 <br>
 <br>
