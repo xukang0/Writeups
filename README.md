@@ -40,6 +40,10 @@
 | 19  | [Return]                                                                         |                                                                           | `LainKusanagi` | `AD`      |
 | 20  | [Cicada]                                                                         |                                                                           | `LainKusanagi` | `AD`      |
 | 21  | [Editorial]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
+| 22  | Help                                                                             |                                                                           | `LainKusanagi` | `Linux`   |
+| 23  | Irked                                                                            |                                                                           | `LainKusanagi` | `Linux`   |
+| 24  | Linkvortex                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
+|     |                                                                                  |                                                                           |                |           |
 
 <br>
 <br>
@@ -59,11 +63,7 @@
 
 | No. | Boxes              | Lessons Learned | List           | Type                            |
 | :-- | ------------------ | :-------------: | -------------- | ------------------------------- |
-| 1   | Editorial          |                 | `LainKusanagi` | `Linux`                         |
-| 2   | Help               |                 | `LainKusanagi` | `Linux`                         |
-| 3   | Irked              |                 | `LainKusanagi` | `Linux`                         |
 | 4   | Jarvis             |                 | `LainKusanagi` | `Linux`                         |
-| 5   | Linkvortex         |                 | `LainKusanagi` | `Linux`                         |
 | 6   | Magic              |                 | `LainKusanagi` | `Linux`                         |
 | 7   | Mentor             |                 | `LainKusanagi` | `Linux`                         |
 | 8   | Monitored          |                 | `LainKusanagi` | `Linux`                         |
