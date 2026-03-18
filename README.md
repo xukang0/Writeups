@@ -43,7 +43,7 @@
 | 22  | Help                                                                             |                                                                           | `LainKusanagi` | `Linux`   |
 | 23  | Irked                                                                            |                                                                           | `LainKusanagi` | `Linux`   |
 | 24  | Linkvortex                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
-|     |                                                                                  |                                                                           |                |           |
+| 25  | Networked                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
 
 <br>
 <br>
@@ -67,7 +67,6 @@
 | 6   | Magic              |                 | `LainKusanagi` | `Linux`                         |
 | 7   | Mentor             |                 | `LainKusanagi` | `Linux`                         |
 | 8   | Monitored          |                 | `LainKusanagi` | `Linux`                         |
-| 9   | Networked          |                 | `LainKusanagi` | `Linux`                         |
 | 10  | Nineveh            |                 | `LainKusanagi` | `Linux`                         |
 | 11  | OpenAdmin          |                 | `LainKusanagi` | `Linux`                         |
 | 12  | Pandora            |                 | `LainKusanagi` | `Linux`                         |
