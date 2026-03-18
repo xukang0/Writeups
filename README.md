@@ -44,6 +44,7 @@
 | 23  | Irked                                                                            |                                                                           | `LainKusanagi` | `Linux`   |
 | 24  | Linkvortex                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
 | 25  | Networked                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
+| 26  | OpenAdmin                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
 
 <br>
 <br>
@@ -68,7 +69,6 @@
 | 7   | Mentor             |                 | `LainKusanagi` | `Linux`                         |
 | 8   | Monitored          |                 | `LainKusanagi` | `Linux`                         |
 | 10  | Nineveh            |                 | `LainKusanagi` | `Linux`                         |
-| 11  | OpenAdmin          |                 | `LainKusanagi` | `Linux`                         |
 | 12  | Pandora            |                 | `LainKusanagi` | `Linux`                         |
 | 13  | Pilgrimage         |                 | `LainKusanagi` | `Linux`                         |
 | 14  | Poison             |                 | `LainKusanagi` | `Linux`                         |
