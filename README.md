@@ -46,6 +46,7 @@
 | 25  | [Networked]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
 | 26  | [OpenAdmin]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
 | 27  | [Pandora]                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
+| 28  | [Pilgrimage]                                                                     |                                                                           | `LainKusanagi` | `Linux`   |
 
 <br>
 <br>
@@ -70,7 +71,6 @@
 | 7   | Mentor             |                 | `LainKusanagi` | `Linux`                         |
 | 8   | Monitored          |                 | `LainKusanagi` | `Linux`                         |
 | 10  | Nineveh            |                 | `LainKusanagi` | `Linux`                         |
-| 13  | Pilgrimage         |                 | `LainKusanagi` | `Linux`                         |
 | 14  | Poison             |                 | `LainKusanagi` | `Linux`                         |
 | 15  | Popcorn            |                 | `LainKusanagi` | `Linux`                         |
 | 16  | Sea                |                 | `LainKusanagi` | `Linux`                         |
