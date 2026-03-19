@@ -40,11 +40,12 @@
 | 19  | [Return]                                                                         |                                                                           | `LainKusanagi` | `AD`      |
 | 20  | [Cicada]                                                                         |                                                                           | `LainKusanagi` | `AD`      |
 | 21  | [Editorial]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
-| 22  | Help                                                                             |                                                                           | `LainKusanagi` | `Linux`   |
-| 23  | Irked                                                                            |                                                                           | `LainKusanagi` | `Linux`   |
-| 24  | Linkvortex                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
-| 25  | Networked                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
-| 26  | OpenAdmin                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
+| 22  | [Help]                                                                           |                                                                           | `LainKusanagi` | `Linux`   |
+| 23  | [Irked]                                                                          |                                                                           | `LainKusanagi` | `Linux`   |
+| 24  | [Linkvortex]                                                                     |                                                                           | `LainKusanagi` | `Linux`   |
+| 25  | [Networked]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
+| 26  | [OpenAdmin]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
+| 27  | [Pandora]                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
 
 <br>
 <br>
@@ -69,7 +70,6 @@
 | 7   | Mentor             |                 | `LainKusanagi` | `Linux`                         |
 | 8   | Monitored          |                 | `LainKusanagi` | `Linux`                         |
 | 10  | Nineveh            |                 | `LainKusanagi` | `Linux`                         |
-| 12  | Pandora            |                 | `LainKusanagi` | `Linux`                         |
 | 13  | Pilgrimage         |                 | `LainKusanagi` | `Linux`                         |
 | 14  | Poison             |                 | `LainKusanagi` | `Linux`                         |
 | 15  | Popcorn            |                 | `LainKusanagi` | `Linux`                         |
