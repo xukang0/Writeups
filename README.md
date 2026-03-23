@@ -47,6 +47,7 @@
 | 26  | [OpenAdmin]                                                                      |                                                                           | `LainKusanagi` | `Linux`   |
 | 27  | [Pandora]                                                                        |                                                                           | `LainKusanagi` | `Linux`   |
 | 28  | [Pilgrimage]                                                                     |                                                                           | `LainKusanagi` | `Linux`   |
+| 29  | [Sea]                                                                            |                                                                           | `LainKusanagi` | `Linux`   |
 
 <br>
 <br>
@@ -73,7 +74,6 @@
 | 10  | Nineveh            |                 | `LainKusanagi` | `Linux`                         |
 | 14  | Poison             |                 | `LainKusanagi` | `Linux`                         |
 | 15  | Popcorn            |                 | `LainKusanagi` | `Linux`                         |
-| 16  | Sea                |                 | `LainKusanagi` | `Linux`                         |
 | 17  | Solidstate         |                 | `LainKusanagi` | `Linux`                         |
 | 18  | Sunday             |                 | `LainKusanagi` | `Linux`                         |
 | 19  | Swagshop           |                 | `LainKusanagi` | `Linux`                         |
