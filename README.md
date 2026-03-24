@@ -49,6 +49,7 @@
 | 28  | [Pilgrimage]                                                                     |                                                                           | `LainKusanagi` | `Linux`   |
 | 29  | [Sea]                                                                            |                                                                           | `LainKusanagi` | `Linux`   |
 | 30  | [Sunday]                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
+| 31  | [Swagshop]                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
 
 <br>
 <br>
@@ -76,7 +77,6 @@
 | 14  | Poison             |                 | `LainKusanagi` | `Linux`                         |
 | 15  | Popcorn            |                 | `LainKusanagi` | `Linux`                         |
 | 17  | Solidstate         |                 | `LainKusanagi` | `Linux`                         |
-| 19  | Swagshop           |                 | `LainKusanagi` | `Linux`                         |
 | 20  | Tabby              |                 | `LainKusanagi` | `Linux`                         |
 | 21  | Tartarsauce        |                 | `LainKusanagi` | `Linux`                         |
 | 22  | UpDown             |                 | `LainKusanagi` | `Linux`                         |
