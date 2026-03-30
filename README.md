@@ -50,6 +50,7 @@
 | 29  | [Sea]                                                                            |                                                                           | `LainKusanagi` | `Linux`   |
 | 30  | [Sunday]                                                                         |                                                                           | `LainKusanagi` | `Linux`   |
 | 31  | [Swagshop]                                                                       |                                                                           | `LainKusanagi` | `Linux`   |
+| 32  | [Usage]                                                                          |                                                                           | `LainKusanagi` | `Linux`   |
 
 <br>
 <br>
@@ -80,7 +81,6 @@
 | 20  | Tabby              |                 | `LainKusanagi` | `Linux`                         |
 | 21  | Tartarsauce        |                 | `LainKusanagi` | `Linux`                         |
 | 22  | UpDown             |                 | `LainKusanagi` | `Linux`                         |
-| 23  | Usage              |                 | `LainKusanagi` | `Linux`                         |
 | 24  | Servmon            |                 | `LainKusanagi` | `Windows`                       |
 | 25  | Chatterbox         |                 | `LainKusanagi` | `Windows`                       |
 | 26  | Jeeves             |                 | `LainKusanagi` | `Windows`                       |
