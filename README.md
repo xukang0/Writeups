@@ -120,3 +120,8 @@
 | 2   | Blackfield        |                 | `LainKusanagi` | `AD` |
 | 3   | TheFrizz (harder) |                 | `LainKusanagi` | `AD` |
 
+# Proving Grounds (Play)
+
+| No. | Boxes       | Lessons Learned | List | Type    |
+| :-- | ----------- | :-------------: | ---- | ------- |
+| 1   | ColdBoxEasy |                 | `NA` | `Linux` |
