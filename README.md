@@ -120,6 +120,15 @@
 | 2   | Blackfield        |                 | `LainKusanagi` | `AD` |
 | 3   | TheFrizz (harder) |                 | `LainKusanagi` | `AD` |
 
+
+# Seasonal HTB Boxes
+
+| No. | Boxes             | Lessons Learned | List           | Type    |
+| :-- | ----------------- | :-------------: | -------------- | ------- |
+| 1   | Facts             |                 | `Season 10`    | `Linux` |
+| 2   | WingData          |                 | `Season 10`    | `Linux` |
+
+
 # Proving Grounds (Play)
 
 | No. | Boxes       | Lessons Learned | List | Type    |
