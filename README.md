@@ -123,10 +123,11 @@
 
 # Seasonal HTB Boxes
 
-| No. | Boxes             | Lessons Learned | List           | Type    |
-| :-- | ----------------- | :-------------: | -------------- | ------- |
-| 1   | Facts             |                 | `Season 10`    | `Linux` |
-| 2   | WingData          |                 | `Season 10`    | `Linux` |
+| No. | Boxes    | Lessons Learned | List        | Type    |
+| :-- | -------- | :-------------: | ----------- | ------- |
+| 1   | Facts    |                 | `Season 10` | `Linux` |
+| 2   | WingData |                 | `Season 10` | `Linux` |
+| 3   | CCTV     |                 | `Season 10` | `Linux` |
 
 
 # Proving Grounds (Play)
