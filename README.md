@@ -137,3 +137,4 @@
 | No. | Boxes       | Lessons Learned | List | Type    |
 | :-- | ----------- | :-------------: | ---- | ------- |
 | 1   | ColdBoxEasy |                 | `NA` | `Linux` |
+| 2   | Gaara       |                 | `NA` | `Linux` |
