@@ -123,14 +123,16 @@
 
 # Seasonal HTB Boxes
 
-| No. | Boxes     | Lessons Learned | List        | Type    |
-| :-- | --------- | :-------------: | ----------- | ------- |
-| 1   | Facts     |                 | `Season 10` | `Linux` |
-| 2   | WingData  |                 | `Season 10` | `Linux` |
-| 3   | CCTV      |                 | `Season 10` | `Linux` |
-| 4   | Kobold    |                 | `Season 10` | `Linux` |
-| 5   | Silentium |                 | `Season 10` | `Linux` |
-| 6   | Reactor   |                 | `Season 11` | `Linux` |
+| No. | Boxes     | Lessons Learned | List        | Type    | Difficulty |
+| :-- | --------- | :-------------: | ----------- | ------- | ---------- |
+| 1   | Facts     |                 | `Season 10` | `Linux` | `Easy`     |
+| 2   | WingData  |                 | `Season 10` | `Linux` | `Easy`     |
+| 3   | CCTV      |                 | `Season 10` | `Linux` | `Easy`     |
+| 4   | Kobold    |                 | `Season 10` | `Linux` | `Easy`     |
+| 5   | Silentium |                 | `Season 10` | `Linux` | `Easy`     |
+| 6   | Reactor   |                 | `Season 11` | `Linux` | `Easy`     |
+| 7   | DevHub    |                 | `Season 11` | `Linux` | `Medium`   |
+| 8   | Conncted  |                 | `Season 11` | `Linux` | `Easy`     |
 
 
 # Proving Grounds (Play)
