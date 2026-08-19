@@ -147,72 +147,74 @@
 # Proving Grounds (Practice)
 
 
-| No.                                                                                                                             | Boxes         | Lessons Learned | List           | Type      | Difficulty     |
-| :------------------------------------------------------------------------------------------------------------------------------ | ------------- | :-------------: | -------------- | --------- | -------------- |
-| 1                                                                                                                               | Levram        |                 | `LainKusanagi` | `Linux`   | `Easy`         |
-| 2                                                                                                                               | ClamAV        |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 3                                                                                                                               | Pelican       |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 4                                                                                                                               | Payday        |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 5                                                                                                                               | Snookums      |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 6                                                                                                                               | Bratarina     |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 7                                                                                                                               | Nibbles       |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 8                                                                                                                               | ZenPhoto      |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 9                                                                                                                               | Cockpit       |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 10                                                                                                                              | Extplorer     |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 11                                                                                                                              | Walla         |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 12                                                                                                                              | PC            |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 13                                                                                                                              | Sorcerer      |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 14                                                                                                                              | Astronaut     |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 15                                                                                                                              | Bullybox      |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 16                                                                                                                              | Exfiltrated   |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 17                                                                                                                              | Quackerjack   |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 18                                                                                                                              | Wombo         |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 19                                                                                                                              | Flu           |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 20                                                                                                                              | Mzee-AV       |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 21                                                                                                                              | Ochima        |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 22                                                                                                                              | SpiderSociety |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
-| 23                                                                                                                              | Pebbles       |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 24                                                                                                                              | Nukem         |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 25                                                                                                                              | Sybaris       |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 26                                                                                                                              | Peppo         |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 27                                                                                                                              | Fanatastic    |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 28                                                                                                                              | Roquefort     |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 29                                                                                                                              | LaVita        |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 30                                                                                                                              | XposedAPI     |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 31                                                                                                                              | Fired         |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 32                                                                                                                              | Vmdak         |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 33                                                                                                                              | Zab           |                 | `LainKusanagi` | `Linux`   | `Hard`         |
-| 34                                                                                                                              | Hetemit       |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 35                                                                                                                              | Clue          |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 36                                                                                                                              | Postfish      |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 37                                                                                                                              | Hawat         |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 38                                                                                                                              | Apex          |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 39                                                                                                                              | Hunit         |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 40                                                                                                                              | Readys        |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 41                                                                                                                              | Marketing     |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 42                                                                                                                              | Zipper        |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| 43                                                                                                                              | SPX           |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| \|Scrutiny - Very Hard\|<br>\|Mantis - Very Hard\|<br>\|BitForge - Very Hard\|<br>\|WallpaperHub - Very Hard\|                  |               |                 |                |           |                |
-|                                                                                                                                 |               |                 |                |           |                |
-| WINDOWS                                                                                                                         |               |                 |                |           |                |
-| 1                                                                                                                               | Kevin         |                 | `LainKusanagi` | `Windows` | `Easy`         |
-| 2                                                                                                                               | Internal      |                 | `LainKusanagi` | `Windows` | `Easy`         |
-| 3                                                                                                                               | Algernon      |                 | `LainKusanagi` | `Windows` | `Easy`         |
-| 4                                                                                                                               | Slort         |                 | `LainKusanagi` | `Windows` | `Intermediate` |
-| 5                                                                                                                               | Jacko         |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 6                                                                                                                               | Craft         |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 7                                                                                                                               | Squid         |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 8                                                                                                                               | Nickel        |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 9                                                                                                                               | MedJed        |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 10                                                                                                                              | Billyboss     |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 11                                                                                                                              | Shenzi        |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 12                                                                                                                              | AuthBy        |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 13                                                                                                                              | DVR4          |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 14                                                                                                                              | Mice          |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 15                                                                                                                              | Fish          |                 | `LainKusanagi` | `Windows` | `Hard`         |
-| 16                                                                                                                              | Hepet         |                 | `LainKusanagi` | `Windows` | `Very Hard`    |
-| 17                                                                                                                              | Monster       |                 | `LainKusanagi` | `Windows` | `Very Hard`    |
-| AD                                                                                                                              |               |                 |                |           |                |
-| \|   \|<br>\|---\|<br>\|Access - Very Hard\|<br>\|Resourced - Very Hard\|<br>\|Nagoya - Very Hard\|<br>\|Hokkaido - Very Hard\| |               |                 |                |           |                |
-| 1                                                                                                                               | Hutch         |                 | `LainKusanagi` | `AD`      | `Hard`         |
-| 2                                                                                                                               | Vault         |                 | `LainKusanagi` | `AD`      | `Hard`         |
+| No.                                                                                                            | Boxes         | Lessons Learned | List           | Type      | Difficulty     |
+| :------------------------------------------------------------------------------------------------------------- | ------------- | :-------------: | -------------- | --------- | -------------- |
+| 1                                                                                                              | Levram        |                 | `LainKusanagi` | `Linux`   | `Easy`         |
+| 2                                                                                                              | ClamAV        |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 3                                                                                                              | Pelican       |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 4                                                                                                              | Payday        |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 5                                                                                                              | Snookums      |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 6                                                                                                              | Bratarina     |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 7                                                                                                              | Nibbles       |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 8                                                                                                              | ZenPhoto      |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 9                                                                                                              | Cockpit       |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 10                                                                                                             | Extplorer     |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 11                                                                                                             | Walla         |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 12                                                                                                             | PC            |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 13                                                                                                             | Sorcerer      |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 14                                                                                                             | Astronaut     |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 15                                                                                                             | Bullybox      |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 16                                                                                                             | Exfiltrated   |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 17                                                                                                             | Quackerjack   |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 18                                                                                                             | Wombo         |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 19                                                                                                             | Flu           |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 20                                                                                                             | Mzee-AV       |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 21                                                                                                             | Ochima        |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 22                                                                                                             | SpiderSociety |                 | `LainKusanagi` | `Linux`   | `Intermediate` |
+| 23                                                                                                             | Pebbles       |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 24                                                                                                             | Nukem         |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 25                                                                                                             | Sybaris       |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 26                                                                                                             | Peppo         |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 27                                                                                                             | Fanatastic    |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 28                                                                                                             | Roquefort     |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 29                                                                                                             | LaVita        |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 30                                                                                                             | XposedAPI     |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 31                                                                                                             | Fired         |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 32                                                                                                             | Vmdak         |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 33                                                                                                             | Zab           |                 | `LainKusanagi` | `Linux`   | `Hard`         |
+| 34                                                                                                             | Hetemit       |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 35                                                                                                             | Clue          |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 36                                                                                                             | Postfish      |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 37                                                                                                             | Hawat         |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 38                                                                                                             | Apex          |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 39                                                                                                             | Hunit         |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 40                                                                                                             | Readys        |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 41                                                                                                             | Marketing     |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 42                                                                                                             | Zipper        |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| 43                                                                                                             | SPX           |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| \|Scrutiny - Very Hard\|<br>\|Mantis - Very Hard\|<br>\|BitForge - Very Hard\|<br>\|WallpaperHub - Very Hard\| |               |                 |                |           |                |
+|                                                                                                                |               |                 |                |           |                |
+| WINDOWS                                                                                                        |               |                 |                |           |                |
+| 1                                                                                                              | Kevin         |                 | `LainKusanagi` | `Windows` | `Easy`         |
+| 2                                                                                                              | Internal      |                 | `LainKusanagi` | `Windows` | `Easy`         |
+| 3                                                                                                              | Algernon      |                 | `LainKusanagi` | `Windows` | `Easy`         |
+| 4                                                                                                              | Slort         |                 | `LainKusanagi` | `Windows` | `Intermediate` |
+| 5                                                                                                              | Jacko         |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 6                                                                                                              | Craft         |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 7                                                                                                              | Squid         |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 8                                                                                                              | Nickel        |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 9                                                                                                              | MedJed        |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 10                                                                                                             | Billyboss     |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 11                                                                                                             | Shenzi        |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 12                                                                                                             | AuthBy        |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 13                                                                                                             | DVR4          |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 14                                                                                                             | Mice          |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 15                                                                                                             | Fish          |                 | `LainKusanagi` | `Windows` | `Hard`         |
+| 16                                                                                                             | Hepet         |                 | `LainKusanagi` | `Windows` | `Very Hard`    |
+| 17                                                                                                             | Monster       |                 | `LainKusanagi` | `Windows` | `Very Hard`    |
+| AD                                                                                                             |               |                 |                |           |                |
+| \|   \|<br>\|---\|<br>\|Resourced - Very Hard\|<br>\|Nagoya - Very Hard\|<br>\|Hokkaido - Very Hard\|          |               |                 |                |           |                |
+| 1                                                                                                              | Hutch         |                 | `LainKusanagi` | `AD`      | `Hard`         |
+| 2                                                                                                              | Vault         |                 | `LainKusanagi` | `AD`      | `Hard`         |
+| 3                                                                                                              | Access        |                 | `LainKusanagi` | `AD`      | `Very Hard`    |
+|                                                                                                                |               |                 |                |           |                |
