@@ -97,7 +97,7 @@
 | 37  | Heist              |                 | `LainKusanagi` | `Windows`                       |
 | 38  | [Active]           |                 | `LainKusanagi` | `AD`                            |
 | 39  | [Forest]           |                 | `LainKusanagi` | `AD`                            |
-| 40  | Sauna              |                 | `LainKusanagi` | `AD`                            |
+| 40  | [Sauna]            |                 | `LainKusanagi` | `AD`                            |
 | 41  | Monteverde         |                 | `LainKusanagi` | `AD`                            |
 | 42  | Timelapse          |                 | `LainKusanagi` | `AD`                            |
 | 43  | Escape             |                 | `LainKusanagi` | `AD`                            |
