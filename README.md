@@ -116,8 +116,8 @@
 
 | No. | Boxes             | Lessons Learned | List           | Type |
 | :-- | ----------------- | :-------------: | -------------- | ---- |
-| 1   | Flight            |                 | `LainKusanagi` | `AD` |
-| 2   | Blackfield        |                 | `LainKusanagi` | `AD` |
+| 1   | [Flight]          |                 | `LainKusanagi` | `AD` |
+| 2   | [Blackfield]      |                 | `LainKusanagi` | `AD` |
 | 3   | TheFrizz (harder) |                 | `LainKusanagi` | `AD` |
 
 
