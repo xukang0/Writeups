@@ -102,7 +102,7 @@
 | 42  | [Timelapse]        |                 | `LainKusanagi` | `AD`                            |
 | 43  | [Escape]           |                 | `LainKusanagi` | `AD`                            |
 | 44  | [Administrator]    |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
-| 45  | EscapeTwo          |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
+| 45  | [EscapeTwo]        |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
 | 46  | Certified (harder) |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
 | 47  | Puppy (harder)     |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
 | 48  | Epsilon            |                 | `LainKusanagi` | `AWS`                           |
