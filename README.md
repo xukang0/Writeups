@@ -101,7 +101,7 @@
 | 41  | [Monteverde]       |                 | `LainKusanagi` | `AD`                            |
 | 42  | [Timelapse]        |                 | `LainKusanagi` | `AD`                            |
 | 43  | [Escape]           |                 | `LainKusanagi` | `AD`                            |
-| 44  | Administrator      |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
+| 44  | [Administrator]    |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
 | 45  | EscapeTwo          |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
 | 46  | Certified (harder) |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
 | 47  | Puppy (harder)     |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
@@ -114,11 +114,11 @@
 
 # HARD
 
-| No. | Boxes             | Lessons Learned | List           | Type |
-| :-- | ----------------- | :-------------: | -------------- | ---- |
-| 1   | [Flight]          |                 | `LainKusanagi` | `AD` |
-| 2   | [Blackfield]      |                 | `LainKusanagi` | `AD` |
-| 3   | TheFrizz (harder) |                 | `LainKusanagi` | `AD` |
+| No. | Boxes               | Lessons Learned | List           | Type |
+| :-- | ------------------- | :-------------: | -------------- | ---- |
+| 1   | [Flight]            |                 | `LainKusanagi` | `AD` |
+| 2   | [Blackfield]        |                 | `LainKusanagi` | `AD` |
+| 3   | [TheFrizz (harder)] |                 | `LainKusanagi` | `AD` |
 
 
 # Seasonal HTB Boxes
