@@ -68,46 +68,46 @@
 
 # MEDIUM
 
-| No. | Boxes              | Lessons Learned | List           | Type                            |
-| :-- | ------------------ | :-------------: | -------------- | ------------------------------- |
-| 4   | Jarvis             |                 | `LainKusanagi` | `Linux`                         |
-| 6   | Magic              |                 | `LainKusanagi` | `Linux`                         |
-| 7   | Mentor             |                 | `LainKusanagi` | `Linux`                         |
-| 8   | Monitored          |                 | `LainKusanagi` | `Linux`                         |
-| 10  | Nineveh            |                 | `LainKusanagi` | `Linux`                         |
-| 14  | Poison             |                 | `LainKusanagi` | `Linux`                         |
-| 15  | Popcorn            |                 | `LainKusanagi` | `Linux`                         |
-| 17  | Solidstate         |                 | `LainKusanagi` | `Linux`                         |
-| 20  | Tabby              |                 | `LainKusanagi` | `Linux`                         |
-| 21  | Tartarsauce        |                 | `LainKusanagi` | `Linux`                         |
-| 22  | UpDown             |                 | `LainKusanagi` | `Linux`                         |
-| 24  | Servmon            |                 | `LainKusanagi` | `Windows`                       |
-| 25  | Chatterbox         |                 | `LainKusanagi` | `Windows`                       |
-| 26  | Jeeves             |                 | `LainKusanagi` | `Windows`                       |
-| 27  | Sniper             |                 | `LainKusanagi` | `Windows`                       |
-| 28  | Querier            |                 | `LainKusanagi` | `Windows`                       |
-| 29  | Giddy              |                 | `LainKusanagi` | `Windows`                       |
-| 30  | Bounty             |                 | `LainKusanagi` | `Windows`                       |
-| 31  | Artic              |                 | `LainKusanagi` | `Windows`                       |
-| 32  | Remote             |                 | `LainKusanagi` | `Windows`                       |
-| 33  | Love               |                 | `LainKusanagi` | `Windows`                       |
-| 34  | Secnotes           |                 | `LainKusanagi` | `Windows`                       |
-| 35  | Access             |                 | `LainKusanagi` | `Windows`                       |
-| 36  | Mailing            |                 | `LainKusanagi` | `Windows`                       |
-| 37  | Heist              |                 | `LainKusanagi` | `Windows`                       |
-| 38  | [Active]           |                 | `LainKusanagi` | `AD`                            |
-| 39  | [Forest]           |                 | `LainKusanagi` | `AD`                            |
-| 40  | [Sauna]            |                 | `LainKusanagi` | `AD`                            |
-| 41  | [Monteverde]       |                 | `LainKusanagi` | `AD`                            |
-| 42  | [Timelapse]        |                 | `LainKusanagi` | `AD`                            |
-| 43  | [Escape]           |                 | `LainKusanagi` | `AD`                            |
-| 44  | [Administrator]    |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
-| 45  | [EscapeTwo]        |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
-| 46  | Certified (harder) |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
-| 47  | Puppy (harder)     |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
-| 48  | Epsilon            |                 | `LainKusanagi` | `AWS`                           |
-| 49  | Gobox              |                 | `LainKusanagi` | `AWS`                           |
-| 50  | Bucket             |                 | `LainKusanagi` | `AWS`                           |
+| No. | Boxes                | Lessons Learned | List           | Type                            |
+| :-- | -------------------- | :-------------: | -------------- | ------------------------------- |
+| 4   | Jarvis               |                 | `LainKusanagi` | `Linux`                         |
+| 6   | Magic                |                 | `LainKusanagi` | `Linux`                         |
+| 7   | Mentor               |                 | `LainKusanagi` | `Linux`                         |
+| 8   | Monitored            |                 | `LainKusanagi` | `Linux`                         |
+| 10  | Nineveh              |                 | `LainKusanagi` | `Linux`                         |
+| 14  | Poison               |                 | `LainKusanagi` | `Linux`                         |
+| 15  | Popcorn              |                 | `LainKusanagi` | `Linux`                         |
+| 17  | Solidstate           |                 | `LainKusanagi` | `Linux`                         |
+| 20  | Tabby                |                 | `LainKusanagi` | `Linux`                         |
+| 21  | Tartarsauce          |                 | `LainKusanagi` | `Linux`                         |
+| 22  | UpDown               |                 | `LainKusanagi` | `Linux`                         |
+| 24  | Servmon              |                 | `LainKusanagi` | `Windows`                       |
+| 25  | Chatterbox           |                 | `LainKusanagi` | `Windows`                       |
+| 26  | Jeeves               |                 | `LainKusanagi` | `Windows`                       |
+| 27  | Sniper               |                 | `LainKusanagi` | `Windows`                       |
+| 28  | Querier              |                 | `LainKusanagi` | `Windows`                       |
+| 29  | Giddy                |                 | `LainKusanagi` | `Windows`                       |
+| 30  | Bounty               |                 | `LainKusanagi` | `Windows`                       |
+| 31  | Artic                |                 | `LainKusanagi` | `Windows`                       |
+| 32  | Remote               |                 | `LainKusanagi` | `Windows`                       |
+| 33  | Love                 |                 | `LainKusanagi` | `Windows`                       |
+| 34  | Secnotes             |                 | `LainKusanagi` | `Windows`                       |
+| 35  | Access               |                 | `LainKusanagi` | `Windows`                       |
+| 36  | Mailing              |                 | `LainKusanagi` | `Windows`                       |
+| 37  | Heist                |                 | `LainKusanagi` | `Windows`                       |
+| 38  | [Active]             |                 | `LainKusanagi` | `AD`                            |
+| 39  | [Forest]             |                 | `LainKusanagi` | `AD`                            |
+| 40  | [Sauna]              |                 | `LainKusanagi` | `AD`                            |
+| 41  | [Monteverde]         |                 | `LainKusanagi` | `AD`                            |
+| 42  | [Timelapse]          |                 | `LainKusanagi` | `AD`                            |
+| 43  | [Escape]             |                 | `LainKusanagi` | `AD`                            |
+| 44  | [Administrator]      |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
+| 45  | [EscapeTwo]          |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
+| 46  | [Certified (harder)] |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
+| 47  | Puppy (harder)       |                 | `LainKusanagi` | `AD`,`Assumed Breach Scenarios` |
+| 48  | Epsilon              |                 | `LainKusanagi` | `AWS`                           |
+| 49  | Gobox                |                 | `LainKusanagi` | `AWS`                           |
+| 50  | Bucket               |                 | `LainKusanagi` | `AWS`                           |
 
 <br>
 <br>
