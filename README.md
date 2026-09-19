@@ -71,7 +71,7 @@
 | No. | Boxes                | Lessons Learned | List           | Type                            | Difficulty |
 | :-- | -------------------- | :-------------: | -------------- | ------------------------------- | ---------- |
 | 1   | [Builder]            |                 | `LainKusanagi` | `Linux`                         | `Medium`   |
-| 4   | Servmon              |                 | `LainKusanagi` | `Linux`                         | `Medium`   |
+| 4   | [Servmon]            |                 | `LainKusanagi` | `Linux`                         | `Medium`   |
 | 6   | Magic                |                 | `LainKusanagi` | `Linux`                         |            |
 | 7   | Mentor               |                 | `LainKusanagi` | `Linux`                         |            |
 | 8   | Monitored            |                 | `LainKusanagi` | `Linux`                         |            |
