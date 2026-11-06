@@ -194,7 +194,8 @@
 | 42                                                                                                    | Zipper        |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
 | 43                                                                                                    | SPX           |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
 | 44                                                                                                    | Scrutiny      |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
-| \|Mantis - Very Hard\|<br>\|BitForge - Very Hard\|<br>\|WallpaperHub - Very Hard\|                    |               |                 |                |           |                |
+| 45                                                                                                    | Mantis        |                 | `LainKusanagi` | `Linux`   | `Very Hard`    |
+| \|BitForge - Very Hard\|<br>\|WallpaperHub - Very Hard\|                                              |               |                 |                |           |                |
 |                                                                                                       |               |                 |                |           |                |
 | WINDOWS                                                                                               |               |                 |                |           |                |
 | 1                                                                                                     | Kevin         |                 | `LainKusanagi` | `Windows` | `Easy`         |
